@@ -25,4 +25,4 @@
 </div>
 
 ## My lastest project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gvferreira&repo=etanewz&show_owner=true)](https://github.com/gvferreira/etanewz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GVFerreira&repo=etanewz)](https://github.com/gvferreira/etanewz)
